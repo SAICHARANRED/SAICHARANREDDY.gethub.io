@@ -7,7 +7,7 @@
 
 .bannerBgImage{
     height: 100vh;
-    background: url("/laptop banner image.jpg");
+    background: url("./laptop banner image.jpg");
     background-size: cover;
     position: relative;
 }
